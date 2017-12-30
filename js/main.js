@@ -106,7 +106,7 @@ var style = new PIXI.TextStyle({
     dropShadowDistance: 20,
 });
 
-var richText = new PIXI.Text('Happy Birthday', style);
+var richText = new PIXI.Text('Happy Birthday, SongXue', style);
 richText.x = window.innerWidth/2 - richText.getBounds().width/2;
 richText.y = window.innerHeight/2 - richText.getBounds().height/2;
 
