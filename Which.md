@@ -1,7 +1,6 @@
 # Which one should I do
 
-> now:      reinforcement learning tutorial & report
-> 
+> now:      reinforcement learning tutorial & report\
 > current:  CS229 and assginment\
 > next:     CS229 project
 
