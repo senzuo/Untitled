@@ -1,17 +1,20 @@
 # Which one should i do
 
+> current : CS229 and assginment \
+> next:     CS229 project
+
 ## to learn
 
 ### Basic
 
 - calculus
-- Linear algebra
+- [Linear algebra](http://web.mit.edu/18.06/www/)
 - Probability theory
 
-### Machine learning
+### Machine learning and Deep Learning
 
 - [Google course](https://developers.google.cn/machine-learning/crash-course/)
-- [CS229 and assginment](http://cs229.stanford.edu/ )
+- [**CS229 and assginment**](http://cs229.stanford.edu/ )
 - [CS229 project](http://cs229.stanford.edu/projects.html)
 - [CS231n assginment](http://cs231.stanford.edu/)
 - [CS231n project](http://cs231n.stanford.edu/project.html)
@@ -23,7 +26,7 @@
 
 ### framework
 
-- [tensorflow](http://web.stanford.edu/class/cs20si/index.html)
+- [tensorflow Stanford](http://web.stanford.edu/class/cs20si/index.html)
 
 ## to practice
 
@@ -32,3 +35,4 @@
 ## Others
 
 - 高效制作PPT
+- 美剧&电影
