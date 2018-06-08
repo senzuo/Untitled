@@ -1,8 +1,13 @@
 # Which one should I do
 
-> now:      reinforcement learning tutorial & report\
 > current:  CS229 and assginment\
 > next:     CS229 project
+
+## list
+
+1. CS229
+2. CS231
+3. Kaggle
 
 
 ## to learn
@@ -38,4 +43,3 @@
 
 - 高效制作PPT
 - 美剧&电影
-- 史铁生
