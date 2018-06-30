@@ -58,7 +58,7 @@ def salary(salary_per_hour,time):
 
 ## 测试
 
-在编写的当前目录，打开黑窗，输入`salary -h` 和`s  20 -t 80` ![](.\img\img1.PNG)
+在编写的当前目录，打开黑窗，输入`salary -h` 和`s  20 -t 80` ![](./img/img1.PNG)
 
 ## 添加到环境变量
 
