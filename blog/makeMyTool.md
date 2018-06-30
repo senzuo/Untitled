@@ -39,7 +39,7 @@ def salary(salary_per_hour,time):
 
    ``` python
    parser.add_argument('-s', '--salary_per_hour', type=int, default=False, help='the salary per hour',required=True)
-   	parser.add_argument('-t', '--time', type=int, default=False, help='the time that u worked',required=True)
+   parser.add_argument('-t', '--time', type=int, default=False, help='the time that u worked',required=True)
    ```
 
 4. 解析参数
