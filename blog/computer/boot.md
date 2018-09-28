@@ -16,7 +16,7 @@ BIOS芯片首先硬件自检，然后查找外部储存的顺序后，告诉计�
 
 你可能看不到以上过程的任何信息。退回到使用Unix系统的文本模式`Ctrl-Shift-F1`，你就会看到随着系统开启，boot信息在屏幕滚动。现在*nix系统通常使用图形化界面，隐藏boot信息。
 
-![boot log](./img/WeChat Image_20180922151651.jpg)
+![boot log](./img/bootLog.jpg)
 
 boot 期间报出的绝大多数的信息是kernel在你的IO端口硬件autoprobing，kernel得出哪一个是可使用，然后应用在你的机器，Linux非常擅长，优于绝大多数Unix系统，比DOS，Windows好得多。
 
